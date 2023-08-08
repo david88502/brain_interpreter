@@ -1,0 +1,21 @@
+# ninja log v5
+41	1183	1689964738974158971	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a9e1bc1c708e8881
+1256	1312	1689964739105207571	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	cc9023328abe1210
+1359	1404	1689964739197386573	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b80c52be5d5181e1
+1183	1256	1689964739048564970	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b476748d69573864
+1404	1452	1689964739245111871	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	8c8f8ea8d37cbd28
+0	41	1689964737834206236	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	436e271c88718b6
+41	1183	1689964738974158971	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	a9e1bc1c708e8881
+1505	1599	1689964739371370170	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	cb4882a2cad012ea
+1183	1256	1689964739048564970	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	b476748d69573864
+1312	1359	1689964739152660131	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2e572682adc7ee88
+1256	1312	1689964739105207571	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	cc9023328abe1210
+1312	1359	1689964739152660131	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	2e572682adc7ee88
+1359	1404	1689964739197386573	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b80c52be5d5181e1
+1452	1505	1689964739296777654	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f1e10e86c3331e91
+1404	1452	1689964739245111871	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	8c8f8ea8d37cbd28
+1505	1599	1689964739371370170	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	cb4882a2cad012ea
+1505	1599	1689964739371370170	CMakeFiles/googletest-populate-complete	cb4882a2cad012ea
+1505	1599	1689964739371370170	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	cb4882a2cad012ea
+0	41	1689964737834206236	/Users/david/Desktop/cpp_projects/brain_interpreter/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	436e271c88718b6
+1452	1505	1689964739296777654	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f1e10e86c3331e91

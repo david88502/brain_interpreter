@@ -1,0 +1,5 @@
+# ninja log v5
+1	1241	1689976389732070591	CMakeFiles/brain_interpreter.dir/main.cpp.o	6826bee683b28209
+2	1391	1689976389884268906	interpreter/CMakeFiles/Interpreter.dir/src/interpreter.cc.o	ce8142a4642a6ff6
+1391	1437	1689976389938132000	interpreter/libInterpreter.a	249ca39516153e24
+1437	1532	1689976390028320488	brain_interpreter	6351e8f4b3d4928b
