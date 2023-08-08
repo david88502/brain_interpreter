@@ -26,14 +26,9 @@ You can build the C++ BF interpreter using the following steps:
    git clone https://github.com/yourusername/BF-interpreter.git
    cd BF-interpreter
 
-markdown
-Copy code
 
 2. Build the interpreter:
    g++ -o BF_interpreter main.cpp
-
-vbnet
-Copy code
 
 ### Usage
 
@@ -41,14 +36,9 @@ To execute BF code using the interpreter, run the built executable with the path
 command-line argument:
 ./BF_interpreter path/to/BF_code.bf
 
-css
-Copy code
-
 Alternatively, you can input BF code directly through the standard input:
 ./BF_interpreter
 
-css
-Copy code
 Then, type or paste your BF code and press Ctrl+D (Linux/Mac) or Ctrl+Z (Windows) to signal the end of input.
 
 ### Examples
@@ -56,15 +46,10 @@ Then, type or paste your BF code and press Ctrl+D (Linux/Mac) or Ctrl+Z (Windows
 1. Running a BF program from a file:
    ./BF_interpreter examples/hello_world.bf
 
-css
-Copy code
 
 2. Running a BF program interactively:
    ./BF_interpreter
    ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
-
-csharp
-Copy code
 
 ## License
 
@@ -75,7 +60,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - This interpreter is based on the BF language created by Urban Müller in 1993.
 - Special thanks to the C++ community for their valuable resources and support.
 
-Feel free to modify and improve this template to suit your specific interpreter. Happy coding! 😊
-Remember to replace yourusername with your actual GitHub username and adjust the paths and examples to match your
-project structure. Also, include the relevant sections for dependencies, installation instructions, contributing
-guidelines, and any additional information you think is necessary for your interpreter.
